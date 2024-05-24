@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/david-motsoeneng-809516175/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/TheDirectorZA" target="_blank">
+  <a href="https://github.com/TheDirectorZA?tab=repositories" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -45,13 +45,13 @@
 <br/>
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <h3>The only 🐍 I enjoy feeding</h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thedirectorza/thedirectorza/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-</div>
+</div> -->
 
 <hr/>
 
