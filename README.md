@@ -8,7 +8,7 @@
 <h3 align="center">Backend Software Engineer based in Johannesburg, South Africa 🇿🇦</h3>
 <br/>
 <div align="center">
- 🎓 Studying <strong>BSc in Computing at UNISA</strong>
+ 🎓 Studying <strong>BSc in Computing at UNISA(part time)</strong>
 
  👀 Currently <strong>Open to new Backend Engineering opportunities</strong>
 
